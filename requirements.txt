@@ -1,5 +1,4 @@
-pandas
-plotly.express
-numpy
-statsmodels.api
-plotly.graph_objects
+plotly==5.11.0
+statsmodels
+streamlit==1.16.0
+tenacity==8.1.0
