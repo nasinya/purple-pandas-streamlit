@@ -1,0 +1,5 @@
+pandas
+plotly.express
+numpy
+statsmodels.api
+plotly.graph_objects
