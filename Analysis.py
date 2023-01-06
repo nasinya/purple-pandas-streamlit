@@ -4,7 +4,7 @@ import streamlit as st
 import statsmodels.api as sm
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Main Analysis")
+# st.set_page_config(page_title="Main Analysis")
 
 cedf = pd.read_csv("CO2 Emissions_Canada.csv")
 
